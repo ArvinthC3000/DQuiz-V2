@@ -17,5 +17,5 @@ Next tried to implement the design in HTML document using CSS.
 After completion of the design, added the functionalities using JavaScript.
 
 ## Authors
->Arvinth C
->Mudassir
+>Arvinth C    
+>Mohmed Mudassir
